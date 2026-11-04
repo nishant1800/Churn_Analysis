@@ -86,4 +86,4 @@ This project provides insights into customer churn through data cleaning, SQL qu
 **Nishant**
 
 - GitHub: [nishant1800](https://github.com/nishant1800)
-- LinkedIn: [Nishant Ranjan](https://www.linkedin.com/in/nishant1800/)
+- LinkedIn: [nishant1800](https://www.linkedin.com/in/nishant1800/)
